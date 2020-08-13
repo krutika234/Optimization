@@ -1,4 +1,4 @@
-# Optimization-in-finance
+# Optimization
 
 example0
 https://colab.research.google.com/github/krutika234/Optimization-in-finance/blob/master/example0.ipynb
