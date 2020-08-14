@@ -2,7 +2,7 @@
 
 Tutorial on optimization has three parts as separted on the basis of library. 
 
-1. The first part is basic tutorial on linear programming using the library pulp.
+1. The first part is a basic tutorial on linear programming using the library pulp.
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/Tutorial_on_linear_programming_Pulp.ipynb
 
 2. The second part is based on the library scipy.optimization. A very basic and percise tutorial on solving and modeling 
