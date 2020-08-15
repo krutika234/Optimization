@@ -9,7 +9,7 @@ https://colab.research.google.com/github/krutika234/Optimization/blob/master/Tut
 of the problem
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/optimization_with_scipy%20.ipynb
 
-3.The third part will give you a brief introduction to use the library cvxopt for convex optimization
+3. The third part will give you a brief introduction to use the library cvxopt for convex optimization
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/Tutorial%20on%20cvxopt%20.ipynb
 
 Example 1 from slide 1 
