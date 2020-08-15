@@ -17,5 +17,5 @@ Examples from Lecture 2
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/Example%202.ipynb
 
 portfolio_optmization
-https://colab.research.google.com/github/krutika234/Optimization-in-finance/blob/master/portfolio_optimization.ipynb
+https://colab.research.google.com/github/krutika234/Optimization/blob/master/Portfolio_optimization.ipynb
 
