@@ -13,7 +13,7 @@ https://colab.research.google.com/github/krutika234/Optimization/blob/master/opt
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/Tutorial%20on%20cvxopt%20.ipynb
 
 
-Example 2 from slide 2
+Examples from Lecture 2
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/Example%202.ipynb
 
 portfolio_optmization
