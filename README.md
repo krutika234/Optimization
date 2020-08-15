@@ -9,12 +9,14 @@ https://colab.research.google.com/github/krutika234/Optimization/blob/master/Tut
 of the problem
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/optimization_with_scipy%20.ipynb
 
+3.The third part will give you a brief introduction to use the library cvxopt for convex optimization
+https://colab.research.google.com/github/krutika234/Optimization/blob/master/Tutorial%20on%20cvxopt%20.ipynb
 
-example0
-https://colab.research.google.com/github/krutika234/Optimization-in-finance/blob/master/example0.ipynb
+Example 1 from slide 1 
+https://colab.research.google.com/github/krutika234/Optimization/blob/master/Example%201.ipynb
 
-Brewer's Problem 
-https://colab.research.google.com/github/krutika234/Optimization/blob/master/Brewer.ipynb
+Example 2 from slide 2
+https://colab.research.google.com/github/krutika234/Optimization/blob/master/Example%202.ipynb
 
 portfolio_optmization
 https://colab.research.google.com/github/krutika234/Optimization-in-finance/blob/master/portfolio_optimization.ipynb
