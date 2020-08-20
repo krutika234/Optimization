@@ -19,3 +19,8 @@ https://colab.research.google.com/github/krutika234/Optimization/blob/master/Exa
 portfolio_optmization
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/Portfolio_optimization.ipynb
 
+Tutorial on ILP
+https://colab.research.google.com/github/krutika234/Optimization/blob/master/Tutorial_ILP.ipynb
+
+Tutorial on simplex
+https://colab.research.google.com/github/krutika234/Optimization/blob/master/Tutorial%20_on_simplex.ipynb
