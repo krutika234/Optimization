@@ -22,3 +22,7 @@ https://colab.research.google.com/github/krutika234/Optimization/blob/master/Por
 
 Tutorial on simplex
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/Tutorial%20_on_simplex.ipynb
+
+
+Tutorial on ILP
+https://colab.research.google.com/github/krutika234/Optimization/blob/master/Tutorial_ilp.ipynb
