@@ -33,3 +33,6 @@ https://colab.research.google.com/github/krutika234/Optimization/blob/master/ind
 
 Non linear programming 
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/Non_linear_programming%20.ipynb
+
+Unconstrained optimization 
+https://colab.research.google.com/github/krutika234/Optimization/blob/master/Unconstarint%20optimization.ipynb
