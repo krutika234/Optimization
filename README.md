@@ -26,3 +26,10 @@ https://colab.research.google.com/github/krutika234/Optimization/blob/master/Tut
 
 Tutorial on ILP
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/Tutorial_ilp.ipynb
+
+
+Index fund 
+https://colab.research.google.com/github/krutika234/Optimization/blob/master/index_fund.ipynb
+
+Non linear programming 
+https://colab.research.google.com/github/krutika234/Optimization/blob/master/Non_linear_programming%20.ipynb
