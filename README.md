@@ -36,3 +36,7 @@ https://colab.research.google.com/github/krutika234/Optimization/blob/master/Non
 
 Unconstrained optimization 
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/Unconstarint%20optimization.ipynb
+
+
+Stochastic gradient descent 
+https://colab.research.google.com/github/krutika234/Optimization/blob/master/SGD.ipynb
