@@ -40,3 +40,7 @@ https://colab.research.google.com/github/krutika234/Optimization/blob/master/Unc
 
 Stochastic gradient descent 
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/SGD.ipynb
+
+Non convex optimization
+https://colab.research.google.com/github/krutika234/Optimization/blob/master/Non-convex_optimization.ipynb
+
