@@ -41,6 +41,8 @@ https://colab.research.google.com/github/krutika234/Optimization/blob/master/Unc
 Non convex optimization
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/Non-convex_optimization.ipynb
 
+Tutorial on Application of Optimizer
+https://colab.research.google.com/github/krutika234/Optimization/blob/master/Application_of_Optimizer.ipynb
 
 MLP theory
 https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
