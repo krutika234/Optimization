@@ -41,3 +41,12 @@ https://colab.research.google.com/github/krutika234/Optimization/blob/master/Unc
 Non convex optimization
 https://colab.research.google.com/github/krutika234/Optimization/blob/master/Non-convex_optimization.ipynb
 
+
+MLP theory
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+
+LSTM theory
+http://colah.github.io/posts/2015-08-Understanding-LSTMs
+
+Implementation on Keras 
+https://www.kaggle.com/lseiyjg/use-news-to-predict-stock-markets.
