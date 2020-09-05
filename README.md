@@ -52,3 +52,6 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs
 
 Implementation on Keras 
 https://www.kaggle.com/lseiyjg/use-news-to-predict-stock-markets.
+
+Comparisions of GD 
+https://damip.net/article-gradient-descent-comparison
